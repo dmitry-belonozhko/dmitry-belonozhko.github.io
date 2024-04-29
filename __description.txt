@@ -1,0 +1,122 @@
+dmitry-belonozhko.github.io
+
+Мои услуги
+	Парсинг - это сбор интересующей Вас информации о компаниях. Например: телефоны, e-mails, адреса.
+
+	Парсинг 2 GIS
+		https://t.me/dmitry_belonozhko
+		https://vk.com/dmitry.belonozhko88	https://kwork.ru/script-programming/29359735/parsing-dva-gis-soberu-dannie-kompaniy-i-organizatsiy-po-regionu
+	Парсинг Яндекс.Карты
+	Парсинг Яндекс.Услуги
+	Парсинг Realt.by
+	Парсинг Zoon.ru
+	
+	Парсинг Pinterest
+	Парсинг ВКонтакте (база пользователей, скачаю картинки с группы определённого размера)
+	Парсинг Facebook
+	Скачаю видео с Tik-Tok
+	Скачаю видео с YouTube
+	Скачаю музыку из видео c YouTube
+	Скачаю музыку без авторских прав для блога на YouTube
+	
+	Жилищные комплексы для продвижения услуг мастера по маникюру
+	Родители детей 6-17, которым нужен репетитор
+	Контакты предпринимателей, которые заинтересованы в закупке товара напрямую у производителей и поставщиков в Китае и/или Турции
+	Контакты китайских компаний, которые специализируются на...
+	Сбор данных о предприятиях мелких и средних размеров в сфере мебельного производства. Производство корпусной и мягкой мебели, резка поролона, изготовление ростовых фигур и театральных мастерских.
+	Собрать базу компаний, которые отвечают за строительство объектов курортной недвижимости на юге России (включая весь Краснодарский край) (отели, гостиницы, апартаменты, пансионаты, санатории)
+	База контактов оптовых покупателей подсолнечного/рапсового/соевого масла, шрота и жмыха. Нужны компании из Китая
+	База организаций, которые занимаются монтажом ворот
+	База юридических лиц Маями (контакты)
+	База частных строительных бригад по России. Ремонт и отделка квартир под ключ (объявления, профи.ру, я.услуги)
+	
+	
+	
+	
+	
+	
+	
+				<section>
+					<h2>Сбор аудитории</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="parsing-vk/">Парсинг ВКонтакте</a>
+					<a href="parsing-odnoklassniki/">Парсинг Одноклассники</a>
+					<a href="parsing-youtube/">Парсинг YouTube</a>
+					<a href="parsing-tik-tok/">Парсинг Tik-Tok</a>
+				</section>
+				
+				<section>
+					<h2>Сбор каналов</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="parsing-kanalov-telegram/">Парсинг каналов Telegram</a>
+				</section>
+
+				<section>
+					<h2>Сбор товаров</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="parsing-tovarov-vk/">Парсинг товаров ВКонтакте</a>
+				</section>
+
+				<section>
+					<h2>Сбор объявлений</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="parsing-avito/">Парсинг объявлений с Авито</a>
+					<a href="parsing-youla/">Парсинг объявлений с Юлы</a>
+				</section>
+
+				<section>
+					<h2>Сбор отзывов и комментариев</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="parsing-youtube-comments/">Парсинг комментариев с YouTube</a>
+					<a href="parsing-wildberries-comments/">Парсинг комментариев с Wildberries</a>
+					<a href="parsing-ozon-comments/">Парсинг комментариев с OZON</a>
+					<a href="parsing-megamarket-comments/">Парсинг комментариев с Мегамаркет</a>
+				</section>
+
+				<section>
+					<h2>Скачивание статей</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="parsing-yandex-dzen/">Парсинг Яндекс.Дзен</a>
+					<a href="parsing-kak-prosto/">Парсинг "Как Просто"</a>
+				</section>
+
+				<section>
+					<h2>Скачивание изображений</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="parsing-kartinok-vk/">Парсинг картинок ВКонтакте</a>
+					<a href="parsing-pinterest/">Парсинг Pinterest</a>
+					<a href="parsing-prompthero/">Парсинг PromptHero.com</a>
+				</section>
+
+				<section>
+					<h2>Скачивание видео</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="download-video-youtube/">Скачать видео с YouTube</a>
+					<a href="download-video-likee/">Скачать видео с Likee</a>
+					<a href="download-video-tik-tok/">Скачать видео с Tik-Tok</a>
+				</section>
+
+				<section>
+					<h2>Скачивание музыки</h2>
+					<div>
+						<p></p>
+					</div>
+					<a href="download-yandex-music/">Скачать музыку с Яндекс.Музыка</a>
+					<a href="download-youtube-music/">Скачать музыку с YouTube</a>
+				</section>

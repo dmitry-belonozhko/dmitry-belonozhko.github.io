@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+/* Fonts */
+	/* Open Sans */
+@font-face {
+	font-family: 'Open-Sans-Regular';
+	src: local('Open-Sans-Regular'), url('resources/fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype');
+}
+	/* */
+
+	/* PT Sans */
+@font-face {
+	font-family: 'PT-Sans-Regular';
+	src: local('PT-Sans-Regular'), url('resources/fonts/PT_Sans/PTSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PT-Sans-Italic';
+	src: local('PT-Sans-Italic'), url('resources/fonts/PT_Sans/PTSans-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PT-Sans-Bold';
+	src: local('PT-Sans-Bold'), url('resources/fonts/PT_Sans/PTSans-Bold.ttf') format('truetype');
+}
+	/* */
+
+	/* Roboto */
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: local('Roboto-Regular'), url('resources/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+	/* */
+/* */
+
+/* Main */
+
+body {}
+body * {font-family: "PT-Sans-Regular";}
+
+#container {padding: 0 .5em; padding-bottom: 1em; min-height: 100vh;}
+
+h1 {font-size: 1.75em; font-family: 'PT-Sans-Bold'; line-height: 1.25em; margin: .25em 0 .5em; padding: 0 .25em;}
+h2 {font-size: 1.25em; font-family: 'PT-Sans-Bold'; font-weight: bold;}
+
+a,
+a > span {color: #2d81e0;}
+a:hover,
+a:hover > span {color: #2d81e0;}
+
+em {font-family: 'PT-Sans-Italic';}
+strong {font-family: 'PT-Sans-Bold';}
+
+.breadcrumb {font-size: 1.1em; padding: .5em 0 0;}
+.breadcrumb li {display: inline-block;}
+.breadcrumb .separator {color: #2d81e0;}
+
+main section {background-color: #f7f8fa; padding: .5em; border-radius: 1em; margin-bottom: 1em;}
+main section div {font-size: 1em; margin: .5em 0;}
+main section div p {margin: .25em 0;}
+main section a {display: block; font-size: 1em;}
+main section .work {margin-bottom: 1em;}
+
+footer {background-color: #f7f8fa; border-radius: 1em; padding: .5em;}
+footer h2 {margin-bottom: .25em;}
+footer p {margin-bottom: .25em; font-size: 1em;}
+footer p > strong {font-weight: bold;}
+
+@media (min-width: 900px) {
+	#container {max-width: 900px; padding: 0; padding-bottom: 1em; margin: 0 auto;}
+	h1 {padding: 0;}
+	main section {padding: 1em;}
+	main section div p {font-size: 1.25em;}
+	main section a {font-size: 1.25em;}
+	footer {padding: 1em;}
+	footer p {font-size: 1.25em;}
+}
